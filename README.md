@@ -1,5 +1,6 @@
 # Acer Aspire 5749 Hackintosh
 
+---
 processor | Core i3 (2nd Gen) 2330M 2 Cores/4 Threads@2,1Ghz
 igpu | Intel Graphics 3000 512MB VRAM @500Mhz (Supported until MacOS High Sierra)
 ![audio](https://i.imgur.com/A7RRuUn.png) | ALC269 (in-build)
