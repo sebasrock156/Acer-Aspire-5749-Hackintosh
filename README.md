@@ -30,7 +30,7 @@
 Hardware | Model
 --- |:--:
 Motherboard | HM65-Aspire 57XX (Sandy Bridge)
-BIOS | InsydeH20 v 1.06 (by Acer)
+![bios](https://i.imgur.com/98P6ntE.png) | InsydeH20 v 1.06 (by Acer)
 ![processor](https://i.imgur.com/wpQP7WW.png) | Intel Core i3 (2nd Gen) 2330M 2 Cores/4 Threads@2,2Ghz
 ![igpu](https://i.imgur.com/pk2H9Aw.png) | Intel Graphics 3000 512MB VRAM @500Mhz (Supported until MacOS High Sierra)
 ![audio](https://i.imgur.com/A7RRuUn.png) | ALC269 (in-build)
