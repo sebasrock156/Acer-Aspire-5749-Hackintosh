@@ -1,4 +1,31 @@
-# Acer Aspire 5749 Hackintosh
+# Acer Aspire 5749 OpenCore Hackintosh
+
+## Might works:
+
+- USB Ports ✅
+
+- Keyboard ✅
+
+- Screen ✅
+
+- Audio Card ✅
+
+- Touchpad ✅
+
+- Wi-Fi ✅
+
+---
+
+## Might not works:
+
+- OpenCore Boot ❌ (Some BIOS partition table error *MBR to EFI*)
+
+- Ethernet ❌ (I think it isn't supported)
+
+- 3D Acceleration ❌ (at least on native unsupported versions *BigSur+*)
+
+
+---
 
 Hardware | Model
 --- |:--:
