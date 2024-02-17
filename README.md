@@ -29,7 +29,9 @@
 
 Hardware | Model
 --- |:--:
-Processor | Intel Core i3 (2nd Gen) 2330M 2 Cores/4 Threads@2,1Ghz
+Motherboard | HM65-Aspire 57XX (Sandy Bridge)
+BIOS | InsydeH20 v 1.06 (by Acer)
+Processor | Intel Core i3 (2nd Gen) 2330M 2 Cores/4 Threads@2,2Ghz
 iGPU | Intel Graphics 3000 512MB VRAM @500Mhz (Supported until MacOS High Sierra)
 ![audio](https://i.imgur.com/A7RRuUn.png) | ALC269 (in-build)
 Wi-Fi | Intel Centrino N-100 (see supported models on [BigSur] or [Monterey, Ventura and Sonoma])
