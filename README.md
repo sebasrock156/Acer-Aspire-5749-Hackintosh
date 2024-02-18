@@ -4,6 +4,7 @@
 [![AMD OSX](https://img.shields.io/badge/AMDOSX-alpha_available-violet.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
 [![Huawei OSX](https://img.shields.io/badge/HuaweiHackintosh-available-violet.svg)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore)
 
+![img](https://i.imgur.com/Ad1QN9D.png)
 
 Hardware | Model
 --- |:--:
