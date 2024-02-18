@@ -8,7 +8,7 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 **More info of MacOS Monterey:**
 
-[![MacOS Monterey](https://i.imgur.com/EdEbZgD.png)](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh/tree/Monterey)
+[![MacOS Monterey](https://i.imgur.com/G3qQ9T2.png)](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh/tree/Monterey)
 
 **Status:** 👨🏾‍🏭 In development (test with [Alpha Release EFI](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh/releases) )💻
 
