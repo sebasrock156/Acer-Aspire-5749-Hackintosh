@@ -4,32 +4,6 @@
 [![AMD OSX](https://img.shields.io/badge/AMDOSX-alpha_available-violet.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
 [![Huawei OSX](https://img.shields.io/badge/HuaweiHackintosh-available-violet.svg)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore)
 
-## Might works:
-
-- USB Ports ✅
-
-- Keyboard ✅
-
-- Screen ✅
-
-- Audio Card ✅
-
-- Touchpad ✅
-
-- Wi-Fi ✅
-
----
-
-## Might not works:
-
-- OpenCore Boot ❌ (Some BIOS partition table error *MBR to EFI*)
-
-- Ethernet ❌ (I think it isn't supported)
-
-- 3D Acceleration ❌ (at least on native unsupported versions *BigSur+*)
-
-
----
 
 Hardware | Model
 --- |:--:
@@ -43,3 +17,38 @@ Ethernet | Qualcomm/Atheros AR8251 (IDK if is supported)
 ![ddr3](https://i.imgur.com/5MAnSyf.png) | Elpida 4GB(8x2) DDR3L@1600Mhz
 ![ssd](https://i.imgur.com/pozDx4X.png) | Kingston A400 SSD 240GB (TLC PS11 Controller)
 ---
+
+### Works:
+---
+<details>
+
+- Opencore 0.9.2 ✅ 
+
+- Installer Boot ✅ (Installation on SSD: ~30/35 minutes)
+
+- System Boot ✅
+
+- USB Ports ✅
+
+- VoodooPS2Controller/Keyboard+Touchpad ✅
+
+- Camera ✅ (works perfectly)
+
+- Battery charging and stats ✅
+
+- Screen ✅ (1080x1920)
+
+- Audio Card ✅ (Could be sounds cutted)
+
+- Wi-Fi ❌✅ (If you try enable it, the system could be reboot)
+
+ 
+</details>
+
+
+### Not works:
+---
+
+<details>
+
+- HDMI ❌ (Enable it with OCLP)
