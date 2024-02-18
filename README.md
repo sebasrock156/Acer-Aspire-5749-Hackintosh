@@ -4,6 +4,17 @@
 [![AMD OSX](https://img.shields.io/badge/AMDOSX-alpha_available-violet.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
 [![Huawei OSX](https://img.shields.io/badge/HuaweiHackintosh-available-violet.svg)](https://github.com/sebasrock156/Huawei-Matebook-D14-21-OpenCore)
 
+This is a "big" project to bring MacOS OSes for these laptops with OpenCore Bootloader, for more information, click on "More info of **MacOS Version** below:
+
+**More info of MacOS Monterey:**
+
+[![MacOS Monterey](https://i.imgur.com/hVAkcmx.png)](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh/tree/Monterey)
+
+**Status:** 👨🏾‍🏭 In development (test with [Second Release EFI](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh/releases) )💻
+
+**To do:** Fix 3D Acceleration with OCLP, fix OC Menu controller.
+
+---
 
 Hardware | Model
 --- |:--:
