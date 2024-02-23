@@ -29,6 +29,12 @@ Ethernet | Qualcomm/Atheros AR8251 (Not supported nativelly)
 ![ssd](https://i.imgur.com/pozDx4X.png) | Kingston A400 SSD 240GB (TLC PS11 Controller)
 ---
 
+### Installation
+
+<details>
+</details>
+
+
 ### Works:
 ---
 <details>
