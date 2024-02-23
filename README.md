@@ -30,8 +30,17 @@ Ethernet | Qualcomm/Atheros AR8251 (Not supported nativelly)
 ---
 
 ### Installation
+---
 
 <details>
+
+
+⚠️ **SOME WARNINGS BEFORE ⚠️:**
+
+*1. During all the process, try have another laptop/PC with Hackintosh posibilities (as last resource for fix any Boot problems)*
+
+*2. Use a SATA3 SSD for install any MacOS version; HDDs are so slow for this; M.2 SSDs may be work, but, default BIOS doesn't support it*
+
 </details>
 
 
