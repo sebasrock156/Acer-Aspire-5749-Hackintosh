@@ -41,7 +41,7 @@ Ethernet | Qualcomm/Atheros AR8251 (IDK if is supported)
 
 - Audio Card ✅ (Could be sounds cutted)
 
-- Wi-Fi ❌✅ (If you try enable it, the system could be reboot)
+- Wi-Fi ✅ (Fully working)
 
  
 </details>
@@ -51,5 +51,7 @@ Ethernet | Qualcomm/Atheros AR8251 (IDK if is supported)
 ---
 
 <details>
+
+- 3D Acceleration ❌ (Enable it with OCLP 0.6.5 or 0.6.8; for now I'm testing if this really works; newer versions crash the screen)
 
 - HDMI ❌ (Enable it with OCLP)
