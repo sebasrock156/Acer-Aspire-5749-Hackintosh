@@ -52,6 +52,6 @@ Ethernet | Qualcomm/Atheros AR8251 (IDK if is supported)
 
 <details>
 
-- 3D Acceleration ❌ (Enable it with OCLP 0.6.5 or 0.6.8; for now I'm testing if this really works; newer versions crash the screen)
+- 3D Acceleration ❌ (For now, OCLP breaks the iGPU)
 
 - HDMI ❌ (Enable it with OCLP)
