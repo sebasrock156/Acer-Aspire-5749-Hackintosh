@@ -37,7 +37,7 @@ Ethernet | Qualcomm/Atheros AR8251 (IDK if is supported)
 
 - Battery charging and stats ✅
 
-- Screen ✅ (1080x1920)
+- Screen ✅ (1366x768)
 
 - Audio Card ✅ (Could be sounds cutted)
 
