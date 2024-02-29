@@ -10,9 +10,19 @@ This is a "big" project to bring MacOS OSes for these laptops with OpenCore Boot
 
 [![MacOS Monterey](https://i.imgur.com/G3qQ9T2.png)](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh/tree/Monterey)
 
+**Status:** 👨🏾‍🏭 In development (test with [Release EFI](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh/releases) )💻
+
+**To do:** Fix iGPU detection by OCLP, fix OC Menu controller.
+
+---
+
+**More info of MacOS Ventura:**
+
+[![MacOS Ventura](https://i.imgur.com/G3qQ9T2.png)](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh/tree/Ventura)
+
 **Status:** 👨🏾‍🏭 In development (test with [Alpha Release EFI](https://github.com/sebasrock156/Acer-Aspire-5749-Hackintosh/releases) )💻
 
-**To do:** Fix 3D Acceleration with OCLP, fix OC Menu controller.
+**To do:** Fix OpenCore iGPU patch for correct detection by OCLP, OC Menu it's even broke.
 
 ---
 
