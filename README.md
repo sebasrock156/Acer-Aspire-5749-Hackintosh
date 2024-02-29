@@ -72,11 +72,11 @@ Ethernet | Qualcomm/Atheros AR8251 (Not supported nativelly)
 
 - Battery charging and stats ✅
 
-- Screen ✅ (1080x1920)
+- Screen ✅ (1336x768)
 
 - Audio Card ✅ (Could be sounds cutted)
 
-- Wi-Fi ❌✅ (If you try enable it, the system could be reboot)
+- Wi-Fi ✅ (It's fully working)
 
  
 </details>
