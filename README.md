@@ -25,7 +25,7 @@ Ethernet | Qualcomm/Atheros AR8251 (IDK if is supported)
 
 - Opencore 0.9.2 ✅ (Although OC Menu doesn't recognize periphericals)
 
-- Installer Boot ✅ (Installation on SSD: ~30/35 minutes)
+- Installer Boot ✅ (Installation on SSD: ~40/50 minutes)
 
 - System Boot ✅
 
