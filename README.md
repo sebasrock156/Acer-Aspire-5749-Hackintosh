@@ -1,4 +1,4 @@
-# Acer Aspire 5749 OpenCore Hackintosh
+# Acer Aspire 5749 Monterey 12.1 - 12.7 OpenCore
 
 [![EFIAcer OSX](https://img.shields.io/badge/EFIAcerHackintosh-available_here-violet.svg)](https://github.com/sebasrock156/Acer-E5-572-TMP246-OpenCore)
 [![AMD OSX](https://img.shields.io/badge/AMDOSX-alpha_available-violet.svg)](https://github.com/sebasrock156/Asus-X555QA-Hackintosh)
