@@ -87,4 +87,5 @@ Ethernet | Qualcomm/Atheros AR8251 (Not supported nativelly)
 
 <details>
 
-- HDMI ❌ (Enable it with OCLP)
+- HDMI ❌ (Enable it with OCLP, but not for now)
+- VGA/Displayport ❌ (System try put in 90Hz and the built-in screen crash)
