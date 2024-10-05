@@ -35,7 +35,7 @@ Hardware | Model
 ![audio](https://i.imgur.com/A7RRuUn.png) | ALC269 (in-build)
 ![wlan](https://i.imgur.com/9eDLwo9.png) | Intel Centrino N-100
 Ethernet | Qualcomm/Atheros AR8251 (Not supported nativelly)
-![ddr3](https://i.imgur.com/5MAnSyf.png) | Elpida 4GB(8x2) DDR3L@1600Mhz
+![ddr3](https://i.imgur.com/5MAnSyf.png) | Elpida 4GB(2x2) DDR3L@1600Mhz
 ![ssd](https://i.imgur.com/pozDx4X.png) | Kingston A400 SSD 240GB (TLC PS11 Controller)
 ---
 
